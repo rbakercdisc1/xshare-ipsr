@@ -11,9 +11,31 @@
   <a name="scope"></a>
   <h3>Scope</h3>
   <p>
-    Guide in the implementation and the labeling of the <strong>xShare IPS+R</strong>, facilitating in the access and adoption of the selected specifications.
+    Guide in the implementation and the labeling of the <strong>xShare IPS4SU</strong>, facilitating in the access and adoption of the selected specifications.
   </p>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Data Guide</title>
+</head>
+<body>
+    <h1>Addressing Variability in Health Data</h1>
+    <p>The challenge we aim to solve is the variability and semantic differences in health data. Addressing this issue will help create a consistent and reliable health data system, improving public health and wellness. It will also give individuals greater control over their health data and support seamless data exchange for both primary and secondary use.</p>
+
+    <h2>Purpose of This Guide</h2>
+    <p>The purpose of this guide is to outline how to use the International Patient Summary for secondary data purposes, such as clinical research and public health. This will improve the usability, the quality, and the timing of the data availability for these purposes. It is important to use secondary data efficiently to improve processes and reduce documentation burden.</p>
+
+    <h2>Implementation and Standards</h2>
+    <p>This guide provides detailed instructions for implementing business use cases, interoperability specifications aligned with international standards, and a standardized core data element set for use across healthcare, population health, and clinical research. To ensure consistency with existing terminologies, we include preferred value sets and code lists.</p>
+
+    <h2>Additional Resources</h2>
+    <p>The guide includes additional downloadable resources to aid functionalities related to the <strong>xShare Yellow Button</strong> in support of secondary data use.</p>
+</body>
+</html>
+  
   <a name="how-to-read"></a>
   <h3>How to read</h3>
   <p>
